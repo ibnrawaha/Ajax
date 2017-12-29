@@ -1,0 +1,8 @@
+Here are the requirements:-
+
+	(1) - Get data from a text file "text.txt".							files => 'ajaxText.php',	 'text.txt'
+	(2) - Get data from a JSON file "user.json".						files => 'ajaxJson1.php',	 'user.json'
+	(3) - Get array data from a JSON file "users.json".					files => 'ajaxJsonAll.php',	 'user.json'
+	(4) - Get data from mysql database.									files => 'ajaxGet.php',		 'get.php'
+	(5) - Post data in mysql database.									files => 'ajaxPost.php',	 'post.php'
+	(6) - Design a Page to show, add, edit and delete data from mysql.	files => 'ajaxComplete.php', 'complete.php'
